@@ -1,2 +1,2 @@
 # checksigs
-chceks windows files have valid signatures because YOLO
+Checks windows files have valid signatures because YOLO
